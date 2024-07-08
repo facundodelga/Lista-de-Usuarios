@@ -1,15 +1,13 @@
-package com.javafs.javacurso.controllers;
+package com.javafs.ListaUsuarios.controllers;
 
-import com.javafs.javacurso.dao.UsuarioDAO;
-import com.javafs.javacurso.dao.UsuarioDAOImp;
-import com.javafs.javacurso.models.Usuario;
-import com.javafs.javacurso.utils.JWTUtil;
+import com.javafs.ListaUsuarios.dao.UsuarioDAO;
+import com.javafs.ListaUsuarios.models.Usuario;
+import com.javafs.ListaUsuarios.utils.JWTUtil;
 import de.mkammerer.argon2.Argon2;
 import de.mkammerer.argon2.Argon2Factory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController

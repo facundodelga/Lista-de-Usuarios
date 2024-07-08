@@ -1,4 +1,4 @@
-package com.javafs.javacurso;
+package com.javafs.ListaUsuarios;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

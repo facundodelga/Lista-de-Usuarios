@@ -1,6 +1,6 @@
-package com.javafs.javacurso.dao;
+package com.javafs.ListaUsuarios.dao;
 
-import com.javafs.javacurso.models.Usuario;
+import com.javafs.ListaUsuarios.models.Usuario;
 import de.mkammerer.argon2.Argon2;
 import de.mkammerer.argon2.Argon2Factory;
 import jakarta.persistence.EntityManager;

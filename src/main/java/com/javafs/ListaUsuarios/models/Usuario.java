@@ -1,4 +1,4 @@
-package com.javafs.javacurso.models;
+package com.javafs.ListaUsuarios.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;

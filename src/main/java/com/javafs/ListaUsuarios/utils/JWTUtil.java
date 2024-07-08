@@ -1,4 +1,4 @@
-package com.javafs.javacurso.utils;
+package com.javafs.ListaUsuarios.utils;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.JwtBuilder;
